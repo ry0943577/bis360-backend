@@ -1,0 +1,282 @@
+[
+  {
+    "is_number": "IS 13252 (Part 1):2010",
+    "product": "Power Banks for portable applications",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Information Technology Equipment - Safety requirements for Power Banks.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 16046 (Part 2):2018",
+    "product": "Lithium-Ion Cells and Batteries for mobile phones / laptops",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Secondary cells and batteries containing alkaline or other non-acid electrolytes.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 616:2017",
+    "product": "Television / Audio Video Equipment / Set Top Boxes",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Audio, video and similar electronic apparatus - Safety requirements.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 13252 (Part 1):2010",
+    "product": "Laptops / Notebooks / Tablets",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Safety of information technology equipment including portable computers.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 16333 (Part 3):2022",
+    "product": "Mobile Phones / Smartphones",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Mobile phone handsets - Indian language support and safety standards.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 16102 (Part 1):2012",
+    "product": "Self-Ballasted LED Lamps / Bulbs",
+    "category": "Electronics & Lighting",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "Self-ballasted LED lamps for general lighting services - Safety requirements.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 16242 (Part 1):2014",
+    "product": "UPS / Inverters (Uninterruptible Power Systems)",
+    "category": "Electronics & IT",
+    "scheme": "Scheme II (CRS)",
+    "mandatory": true,
+    "description": "General and safety requirements for UPS systems up to 10 kVA.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 5662:2018",
+    "product": "Potato Chips / Crisps / Wafers",
+    "category": "Food and Agriculture (FAD 10)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": false,
+    "description": "Specification for fried potato chips, salted or spiced potato wafers.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 13690:2021",
+    "product": "Butter / Table Butter / White Butter",
+    "category": "Food and Agriculture (FAD 19)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": false,
+    "description": "Indian standard specification for pasteurized table butter.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 1011:2019",
+    "product": "Biscuits / Cookies / Crackers",
+    "category": "Food and Agriculture (FAD 16)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": false,
+    "description": "Specification for biscuits manufactured from maida and edible fats.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 14543:2004",
+    "product": "Packaged Drinking Water",
+    "category": "Food and Agriculture (FAD 14)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Compulsory Indian standard specification for packaged drinking water.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 13428:2005",
+    "product": "Packaged Natural Mineral Water",
+    "category": "Food and Agriculture (FAD 14)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Mandatory specification for natural mineral water directly bottled at source.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 1165:2002",
+    "product": "Milk Powder / Whole Milk Powder",
+    "category": "Food and Agriculture (FAD 19)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Specification for whole and skim milk powder.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 11536:2007",
+    "product": "Infant Formula / Baby Food",
+    "category": "Food and Agriculture (FAD 19)",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Processed cereal-based complementary foods for infants.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 4151:2015",
+    "product": "Helmets for Riders of Two-Wheeled Motor Vehicles",
+    "category": "Personal Safety",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Protective helmets for motorcycle and two-wheeler riders with impact absorption criteria.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 9873 (Part 1):2019",
+    "product": "Toys for Children (Mechanical and Physical Properties)",
+    "category": "Consumer Goods / Toys",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Safety of toys - mechanical and physical properties for infants and kids.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 15644:2006",
+    "product": "Electric Toys Safety",
+    "category": "Consumer Goods / Toys",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Safety requirements for electric-powered toys and educational electronic kits.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 12269:2013",
+    "product": "53 Grade Ordinary Portland Cement",
+    "category": "Civil Engineering",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "High-strength ordinary portland cement used for structural concrete.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 1786:2008",
+    "product": "TMT Steel Bars (High Strength Deformed Steel Bars for Concrete)",
+    "category": "Metallurgical Engineering",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "Thermo-mechanically treated (TMT) steel bars for reinforced concrete works.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  },
+  {
+    "is_number": "IS 694:2010",
+    "product": "PVC Insulated Copper / Aluminium Electric Cables and Wires",
+    "category": "Electrical",
+    "scheme": "Scheme I (ISI Mark)",
+    "mandatory": true,
+    "description": "PVC insulated cables for working voltages up to and including 1100 V.",
+    "steps": [
+      "Verify product specifications and testing requirements against the designated IS standard",
+      "Set up mandatory in-house testing lab or identify BIS-approved external lab",
+      "Submit manufacturer application on BIS Manakonline portal",
+      "Complete factory inspection, sample verification, and obtain BIS license / Standard Mark"
+    ]
+  }
+]
